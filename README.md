@@ -1,3 +1,4 @@
+```
 const timer=@import(timer.zig);
 //import timer
 
@@ -13,3 +14,4 @@ pub fn main() !void{
    timer.back_data(T)
    //timing and return data by type of T
 }
+```
